@@ -1,0 +1,63 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0 35%;
+}
+
+.floatleft {
+    float: left;
+}
+
+.floatright {
+    float: right;
+}
+
+.clear {
+    clear: both;
+}
+
+.uppercase {
+    text-transform: uppercase;
+}
+
+.cube {
+    width: 400px;
+    height: 700px;
+    background: linear-gradient(#A9A9A9, #000000);
+    border-radius: 50px;
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+}
+
+.logo {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    margin: 55px 0 60px 0;
+    box-shadow: rgba(0, 0, 0, 0.56) 0px 22px 70px 4px;
+    border: solid white 1px;
+}
+.profil {
+    text-align: center;
+}
+
+button {
+    width: 250px;
+    height: 50px;
+    border-radius: 20px;
+    margin: 0 0 30px 75px;
+    border-color: white;
+    border: none;
+}
+
+.discord {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+button:hover {
+    background-color: black;
+    color: white;
+  }
+  
